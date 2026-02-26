@@ -1,5 +1,5 @@
 <div aling="center">
-    <img width="100%" src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" alt="" srcset="">
+    <img width="100%" height="300px" src="https://www.pixartprinting.es/blog/wp-content/uploads/2023/08/Vaporwave.jpg" alt="" srcset="">
 </div>
 <div>
     <h1>hola mi nombre es Raul Prada
@@ -12,5 +12,5 @@
 </div>
 
 <footer>
-    <img width="100%" height="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png" alt="" srcset="">
+    <img width="100%" height="200px" src="https://media1.tenor.com/m/Q329gflKk7sAAAAC/invulnerable.gif" alt="" srcset="">
 </footer>
